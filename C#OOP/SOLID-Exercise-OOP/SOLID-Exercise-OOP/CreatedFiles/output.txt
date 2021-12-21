@@ -1,0 +1,26 @@
+3/26/2015 2:08:11 PM - Critical - Error parsing JSON.
+3/26/2015 2:08:11 PM - Critical - User Pesho successfully registered.
+
+<log>
+    <date>3/26/2015 2:08:11 PM</date>
+    <level>Critical</level>
+    <message>Error parsing JSON.</message>
+</log>
+
+<log>
+    <date>3/26/2015 2:08:11 PM</date>
+    <level>Critical</level>
+    <message>User Pesho successfully registered.</message>
+</log>
+
+<log>
+    <date>3/26/2015 2:08:11 PM</date>
+    <level>Critical</level>
+    <message>Error parsing JSON.</message>
+</log>
+
+<log>
+    <date>3/26/2015 2:08:11 PM</date>
+    <level>Critical</level>
+    <message>User Pesho successfully registered.</message>
+</log>
